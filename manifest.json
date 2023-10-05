@@ -1,0 +1,11 @@
+{
+    "name": "Random Text Generator",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_icon":"text.png",
+      "default_title":"Random Text",
+      "default_popup": "text.html"
+    },
+    "permissions": ["tabs"]
+   }
